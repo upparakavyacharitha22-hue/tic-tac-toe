@@ -1,0 +1,11 @@
+# Python Dependencies
+# -------------------------------------------------------------
+# This project uses ONLY Python's built-in standard libraries:
+# - tkinter (GUI library included with standard Python on Windows/macOS)
+# - random  (Built-in Python library for randomized decisions)
+# - time    (Built-in Python library for timing utilities)
+#
+# No external pip packages are required!
+# To run on Linux systems without Tkinter pre-installed:
+# sudo apt-get install python3-tk
+
